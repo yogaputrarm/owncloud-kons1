@@ -4,7 +4,7 @@
 ## Bahan
 - VM OS Debian 
 - Putty [Putty](https://putty.org/)
-- ISO OwnCloud [OwnCloud](https://www.turnkeylinux.org/owncloud)]
+- ISO OwnCloud [OwnCloud](https://www.turnkeylinux.org/owncloud)
 
 ## Langkah Instalasi
 - Buatlah VM baru di virtual box, kemudian masukkan file ISO yang telah di unduh
