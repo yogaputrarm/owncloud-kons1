@@ -1,4 +1,4 @@
-<h2 align="center">Instal OpenVPN for Debian</h2>
+<h2 align="center">Instal OwnCloud for Debian</h2>
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيْم
 
 ## Bahan
